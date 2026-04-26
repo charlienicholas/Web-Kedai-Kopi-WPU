@@ -16,7 +16,7 @@ body {
     font-family: "Poppins", sans-serif;
     background-color: var(--bg);
     color: #fff;
-    /* min-height: 2000px; */
+    min-height: 2000px;
 }
  
 /* Navbar */
@@ -138,6 +138,15 @@ body {
     background-color: var(--primary);
    border-radius: .5rem;
    box-shadow: 1px 1px 3px rgba(1, 1, 1, 0.5); 
+}
+
+/* About Section */
+.about {
+    padding: 10rem 7% 1.4rem; 
+}
+
+.about h2 {
+    
 }
 
 /* Media Queries */
